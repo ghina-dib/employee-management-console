@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace employee_manegment
+namespace EmployeeManagement
 {
     public interface IEmployeeRepository
     {
