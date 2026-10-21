@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using employee_manegment;
+using EmployeeManagement;
 
-namespace employee_manegment
+namespace EmployeeManagement
 {
     public class Employee
     {

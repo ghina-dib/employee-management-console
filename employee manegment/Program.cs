@@ -1,4 +1,4 @@
-﻿using employee_manegment;
+﻿using EmployeeManagement;
 IEmployeeRepository repo = new InMemoryEmployeeRepository();
 repo.Add(new Employee(1, "Maya", "IT", 2500m));
 repo.Add(new Employee(2, "John", "HR", 3000m));
